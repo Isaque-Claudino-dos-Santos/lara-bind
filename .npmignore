@@ -1,0 +1,8 @@
+/__tests__
+/src
+/jest.config.ts
+/.gitignore
+/README.md
+/.vscode
+/.github
+/tsconfig.json
