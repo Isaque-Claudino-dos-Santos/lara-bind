@@ -1,13 +1,13 @@
 {
   "name": "lara-bind",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "type": "module",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
     "build": "rm -rf dist && npx tsc"
   },
-  "keywords": ["bind", "decorator"],
+  "keywords": ["bind", "decorator","class", "auto", "auto-bind","auto-class-bind"],
   "author": "Isaque-Claudino-dos-Santos",
   "license": "ISC",
   "description": "simple bind function",
